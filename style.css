@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-size: large;
+    font-family: serif;
+    font-weight: 400;
+}
+h2{
+    font-size: medium;
+    font-stretch: expanded;
+}
